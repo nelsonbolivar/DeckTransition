@@ -10,7 +10,7 @@ struct Constants {
     
     /// Default duration for present and dismiss animations when the user hasn't
     /// specified one
-    static let defaultAnimationDuration: TimeInterval = 0.3
+    static let defaultAnimationDuration: TimeInterval = 0.15
     
     /// The corner radius applied to the presenting and presented view
     /// controllers's views
